@@ -1,0 +1,16 @@
+12000001CARBAJAL                 ALFREDO JAIME            B
+12000002PIÑA                     JOSE MANUEL              A
+12000003MARCHENA                 MARIO                    A
+12000004GIRON                    VANESSA SAMANTA          C
+12000005TEJADA                   JUAN JOSE                A
+12000006ANGELES                  KENYI ARIADNA            E
+12000007PALOMINO                 ANDREA DEL ROCIO         C
+12000008GALARRETA                DAVID ANGELO             E
+12000009PALMA                    GLORIA MARGARITA         A
+12000010TRUJILLO                 DANIEL FRANCISCO         E
+12000011APARICIO                 MARIA ELENA              B
+12000012AGUILAR                  MIGUEL ANGEL             A
+12000013CENTENO                  HERMANN EDUARDO          E
+12000014MARTINEZ                 ELEODORO RICHARD         E
+12000015SALAS                    RICHARD WINSTON          A
+12000016GOMEZ                    YESHICA ROMINA           B
